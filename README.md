@@ -6,11 +6,11 @@ A simple android game made using Flutter.
 Got some free times during this Covid19 Pandemic and decided to to learn flutter and create this game for my kids. 
 
 This game is heavily adapted from Hangman Game by [flutter.institute](https://flutter.institute/simple-games-with-flutter-web-hangman/). I've made some changes to better suit my need:
-* It's a game for kids, so noone is getting hung here obviously
+* Replace hangman progression images with faces. It's a game for kids, so noone is getting hung here obviously
 * Add clues for player, clues is displayed on each guessing attempt
 * Render non alphabetic letter including spaces
 * Engine now using a model for the Word i.e WordGuess, each WordGuess object made of the word and list of clues
-* Some sound effects too make the game more interesting
+* Add some sound effects too make the game more interesting
 
 
 ## Credits
