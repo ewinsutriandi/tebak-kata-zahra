@@ -1,0 +1,44 @@
+{
+  "malaikat": [
+      {
+          "Nama": "Jibril",
+          "Tugas": "Menyampaikan wahyu"
+      },
+      {
+          "Nama": "Mikail",
+          "Tugas": "Memberi rizki"
+      },
+      {
+          "Nama": "Israfil",
+          "Tugas": "Meniup terompet pada hari kiamat"
+      },
+      {
+          "Nama": "Izrail",
+          "Tugas": "Mencabut nyawa"
+      },
+      {
+          "Nama": "Munkar",
+          "Tugas": "Bertanya pada manusia di alam kubur, tentang perkara semasa hidupnya"
+      },
+      {
+          "Nama": "Nakir",
+          "Tugas": "Bertanya pada manusia di alam kubur, tentang perkara semasa hidupnya"
+      },
+      {
+          "Nama": "Raqib",
+          "Tugas": "Mencatat amal baik yang dilakukan manusia"
+      },
+      {
+          "Nama": "Atid",
+          "Tugas": "Mencatat amal buruk yang dilakukan manusia"
+      },
+      {
+          "Nama": "Malik",
+          "Tugas": "Menjaga pintu neraka"
+      },
+      {
+          "Nama": "Ridwan",
+          "Tugas": "Menjaga pintu surga"
+      }
+  ]
+}

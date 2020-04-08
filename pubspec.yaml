@@ -1,0 +1,59 @@
+name: tebak_kata
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^0.1.2
+  csv: ^4.0.3
+  auto_size_text: ^2.1.0
+  assets_audio_player: ^1.2.3
+  shared_preferences: ^0.5.6
+  flutter_markdown: ^0.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/credits.md
+   - assets/img/titleart.png
+   - assets/img/icon.png
+   - assets/img/iconbg.png
+   - assets/img/iconfg.png
+   - assets/img/win.png
+   - assets/img/wrong0.png
+   - assets/img/wrong1.png
+   - assets/img/wrong2.png
+   - assets/img/wrong3.png
+   - assets/img/wrong4.png
+   - assets/img/wrong5.png
+   - assets/img/wrong6.png
+   - assets/img/lose.png
+   - assets/words/asmaulhusna.csv
+   - assets/words/asmaulhusna.json
+   - assets/words/malaikat.json
+   - assets/words/alquran.json
+   - assets/words/nabirasul.json
+   - assets/sounds/correct.ogg
+   - assets/sounds/wrong.ogg
+   - assets/sounds/win.ogg
+   - assets/sounds/game_over.ogg
+
+flutter_icons:
+  android: true
+  ios: true  
+  image_path_android: assets/img/icon.png
+  image_path_ios: assets/img/icon.png    
+  adaptive_icon_background: assets/img/iconbg.png  
+  adaptive_icon_foreground: assets/img/iconfg.png  

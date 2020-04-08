@@ -1,0 +1,192 @@
+{
+  "prophets": [
+      {
+          "Nomor": "1",
+          "Nama": "Adam",
+          "clue1": "Manusia pertama",
+          "clue2": "Awalnya tinggal di surga",
+          "clue3": "Diturunkan ke bumi karena memakan buah khuldi",
+          "clue4": "Memiliki istri Siti Hawa"
+      },
+      {
+          "Nomor": "2",
+          "Nama": "Idris",
+          "clue1": "Nabi ke-2 setelah nabi Adam",
+          "clue2": "Berasal dari babilonia"
+      },
+      {
+          "Nomor": "3",
+          "Nama": "Nuh",
+          "clue1": "Membuah bahtera (perahu) besar dan memperingatkan kaumnya akan datangnya banjir besar",
+          "clue2": "Pada zamannya terjadi banjir besar",
+          "clue3": "Ia dan kaumnya yang beriman diselamatkan Allah dari banjir besar dengan menaiki bahtera",
+          "clue4": "Rasul yang tergolong ulul azmi"
+      },
+      {
+          "Nomor": "4",
+          "Nama": "Hud",
+          "clue1": "Diutus untuk kaum Ad",
+          "clue2": "Kaumnya (Kaum Ad) diazab Allah dengan angin besar selama 8 hari dan 7 malam"
+      },
+      {
+          "Nomor": "5",
+          "Nama": "Saleh",
+          "clue1": "Diutus untuk kaum Tsamud",
+          "clue2": "Memiliki mukjizat mengeluarkan unta betina dari balik batu besar",
+          "clue3": "Kaumnya membunuh unta betina kemudian diazab oleh Allah",
+          "clue4": "Kaumnya diazab gempa dan petir"
+      },
+      {
+          "Nomor": "6",
+          "Nama": "Ibrahim",
+          "clue1": "Diutus untuk kaum Babilonia",
+          "clue2": "Menghancurkan berhala kaumnya",
+          "clue3": "Tidak mempan dibakar api",
+          "clue4": "Ayah dari nabi ismail dan ishak",
+          "clue5": "Meninggikan pondasi ka'bah bersama nabi Ismail",
+          "clue6": "Diminta Allah untuk mengurbankan anaknya",
+          "clue7": "Allah mengganti anaknya dengan domba untuk dikurbankan",
+          "clue8": "Rasul yang tergolong ulul azmi"
+      },
+      {
+          "Nomor": "7",
+          "Nama": "Luth",
+          "clue1": "Diutus untuk kaum Sodom",
+          "clue2": "Kaumnya diazab karena mempraktekkan hubungan sesama jenis"
+      },
+      {
+          "Nomor": "8",
+          "Nama": "Ismail",
+          "clue1": "Anak pertama dari nabi Ibrahim",
+          "clue2": "Bersedia dikurbankan ayahnya karena perintah Allah",
+          "clue3": "Allah menggantinya dengan domba saat akan dikurbankan",
+          "clue4": "Meninggikan pondasi ka'bah bersama nabi Ibrahim, ayahnya"
+      },
+      {
+          "Nomor": "9",
+          "Nama": "Ishak",
+          "clue1": "Anak kedua dari nabi Ibrahim",
+          "clue2": "Ayah dari nabi Yakub"
+      },
+      {
+          "Nomor": "10",
+          "Nama": "Yakub",
+          "clue1": "Anak dari nabi Ishak"
+      },
+      {
+          "Nomor": "11",
+          "Nama": "Yusuf",
+          "clue1": "Anak dari nabi Yakub",
+          "clue2": "Nama salah satu surat dalam Al Qur'an",
+          "clue3": "Nabi yang sangat tampan",
+          "clue4": "Ditinggalkan di dalam sumur oleh saudaranya",
+          "clue5": "Menjadi penasehat raja setelah berhasil menafsirkan mimpi"
+      },
+      {
+          "Nomor": "12",
+          "Nama": "Ayub",
+          "clue1": "Nabi yang diuji dengan kehilangan harta, kematian anak, dan penyakit"
+      },
+      {
+          "Nomor": "13",
+          "Nama": "Syuaib",
+          "clue1": "Diturunkan untuk kaum Madyan"
+      },
+      {
+          "Nomor": "14",
+          "Nama": "Musa",
+          "clue1": "Menerima kitab Taurat",
+          "clue2": "Membelah laut merah dengan tongkatnya",
+          "clue3": "Bersaudara dengan nabi Harun",
+          "clue4": "Diutus untuk bani israil",
+          "clue5": "Melawan Fir'aun",
+          "clue6": "Tongkat berubah menjadi ular",
+          "clue7": "Membawa Bani Israil hijrah dari Mesir ke Palestina",
+          "clue8": "Rasul yang tergolong ulul azmi"
+      },
+      {
+          "Nomor": "15",
+          "Nama": "Harun",
+          "clue1": "Saudara nabi Musa",
+          "clue2": "Pendamping nabi Musa dalam berdakwah",
+          "clue3": "Menghadapi bani israil yang menyembah patung sapi emas",
+          "clue4": "Fasih berbicara/berdakwah ",
+          "clue5": "Diutus untuk Bani Israil"          
+      },
+      {
+          "Nomor": "16",
+          "Nama": "Daud",
+          "clue1": "Menerima kitab Zabur",
+          "clue2": "Mengalahkan Jalut (Goliath)",
+          "clue3": "Mampu melunakkan besi"
+      },
+      {
+          "Nomor": "17",
+          "Nama": "Sulaiman",
+          "clue1": "Dapat berbicara dengan hewan",
+          "clue2": "Berkuasa atas jin",
+          "clue3": "Mampu melunakkan tembaga",
+          "clue4": "Menundukkan angin",
+          "clue5": "Raja yang sangat berkuasa"
+      },
+      {
+          "Nomor": "18",
+          "Nama": "Ilyas",
+          "clue1": "Keturunan nabi Harun"
+      },
+      {
+          "Nomor": "19",
+          "Nama": "ilyasa",
+          "clue1": "Murid nabi Ilyas"
+      },
+      {
+          "Nomor": "20",
+          "Nama": "Yunus",
+          "clue1": "Dimakan dan hidup dalam perut ikan besar"
+      },
+      {
+          "Nomor": "21",
+          "Nama": "Zulkifli",
+          "clue1": "Disebut dalam Al Qur'an sebagai orang yang sabar"
+      },
+      {
+          "Nomor": "22",
+          "Nama": "Zakaria",
+          "clue1": "Mengasuh Maryam, ibu nabi Isa",
+          "clue2": "Ayah dari nabi Yahya"
+      },
+      {
+          "Nomor": "23",
+          "Nama": "Yahya",
+          "clue1": "Anak dari nabi Zakaria"
+      },
+      {
+          "Nomor": "24",
+          "Nama": "Isa",
+          "clue1": "Menerima kitab Injil",
+          "clue2": "Membuat burung hidup dari tanah liat",
+          "clue3": "Mampu berbicara sejak bayi",
+          "clue4": "Ibundanya bernama Maryam",
+          "clue5": "Menyembuhkan orang buta",
+          "clue6": "Menyembuhkan penderita kusta",
+          "clue7": "Menurunkan hidangan dari langit",
+          "clue8": "Membangkitkan orang mati",
+          "clue9": "Bergelar al-masih",
+          "clue10": "Rasul yang tergolong ulul azmi"
+      },
+      {
+          "Nomor": "25",
+          "Nama": "Muhammad",
+          "clue1": "Nabi terakhir dan nabi utama bagi umat Islam",
+          "clue2": "Lahir di Mekkah",
+          "clue3": "Kita mengucapkan Shallallahu'alaihi wasallam (SAW) setiap mendengar namanya",
+          "clue4": "Menerima wahyu berupa Al Qur'an",
+          "clue5": "Berasal dari suku Quraisy",
+          "clue6": "Menerima wahyu pertama di gua Hira",
+          "clue7": "Ayahnya Abdullah, ibunya Siti Aminah",
+          "clue8": "Melakukan perjalanan isra' dan mi'raj",
+          "clue9": "Hijrah dari Makkah ke Madinah",
+          "clue10": "Rasul yang tergolong ulul azmi"
+      }
+  ]
+}
