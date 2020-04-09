@@ -1,5 +1,7 @@
-Got some free times during this Covid19 Pandemic and decided to to learn flutter and create this game for my kids. Source code will be available on github for those interested.
+# Background
+Got some free times during this Covid19 Pandemic and decided to learn flutter and create this game for my kids. Source code  available on [github](https://github.com/ewinsutriandi/tebak-kata-zahra) for those interested.
 
+# Credits
 This game is heavily adapted from Hangman Game by [flutter.institute](https://flutter.institute) 
 
 Sound effects used in this game:

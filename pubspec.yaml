@@ -16,6 +16,10 @@ dependencies:
   assets_audio_player: ^1.2.3
   shared_preferences: ^0.5.6
   flutter_markdown: ^0.3.4
+  flutter_email_sender: ^3.0.1
+  image_picker: ^0.6.4
+  url_launcher: ^5.4.2
+
 
 dev_dependencies:
   flutter_test:

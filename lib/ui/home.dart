@@ -4,6 +4,7 @@ import 'package:tebak_kata/engine/tebak_kata.dart';
 import 'package:tebak_kata/model/word.dart';
 import 'package:tebak_kata/providers/wordsprovider.dart';
 import 'package:tebak_kata/ui/credits.dart';
+import 'package:tebak_kata/ui/feedback.dart';
 import 'package:tebak_kata/ui/tebak_kata_page.dart';
 
 
@@ -49,7 +50,8 @@ class HomePage extends StatelessWidget {
   Widget _gameTitle() {
     return Expanded(
       flex: 3,        
-      child: Container(              
+      child: Container(
+        padding: EdgeInsets.only(top:25),             
         decoration: BoxDecoration(              
         ),
         child: Image.asset(
@@ -114,12 +116,12 @@ class HomePage extends StatelessWidget {
   }
 
   void _selectChoice(BuildContext context,Choice c) {
-    Navigator.push(context,MaterialPageRoute(builder: (context) => scaffoldWidget(c.title,c.page)));
+    Navigator.push(context,MaterialPageRoute(builder: (context) => c.page));
   }
 
   static List<Choice> _appBarMenuChoices = [
-    new Choice(title: 'Credits',page:CreditPage()),
-    new Choice(title: 'Kirim Saran',page:CreditPage())
+    new Choice(title: 'Tentang Aplikasi',page:_Materialize(scaffoldWidget('Tentang Aplikasi', CreditPage()))),
+    new Choice(title: 'Kirim Saran',page:_Materialize(FeedbackForm()))
   ];
 
   Future _navigateToSubPage(context,index) async {
@@ -132,8 +134,15 @@ class HomePage extends StatelessWidget {
       Navigator.push(context, MaterialPageRoute(builder: (context) => scaffoldWidget(title,tebakKataPage)));
     });
   }
-
-  Widget scaffoldWidget(String title, Widget page) {
+  static Widget _Materialize(page) {
+    return MaterialApp(
+      theme: ThemeData(
+        primarySwatch: Colors.green,
+      ),
+      home: page,
+    );
+  }
+  static Widget scaffoldWidget(String title, Widget page) {
     return Scaffold(
         backgroundColor: Colors.white,
         appBar: AppBar(

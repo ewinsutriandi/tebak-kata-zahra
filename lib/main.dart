@@ -59,36 +59,5 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       home: home(),
     );
-  }
-  
-  Widget buildLegacy(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            WordBox(
-              word: 'Kucing klang kling'+_counter.toString()
-            )
-            ,
-            Text(
-              'You have pushed the button this many times:',
-            ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.display1,
-            ),
-          ],
-        ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: Icon(Icons.add),
-      ),      
-    );
-  }
+  }    
 }
