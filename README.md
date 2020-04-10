@@ -2,6 +2,11 @@
 
 A simple android game made using Flutter. 
 
+## Preview
+![App Preview](/other/demo.gif?raw=true "Preview")
+
+
+
 ## About
 Got some free times during this Covid19 Pandemic and decided to to learn flutter and create this game for my kids. 
 
